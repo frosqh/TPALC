@@ -42,6 +42,7 @@
     <pathelement path="${jgraph.path}"/>
     <pathelement path="${dream-explorer.path}"/>
     <pathelement location="${build}"/>
+    <pathelement location="${build}/comanche"/>
   </path>
 
   <!-- ================================== -->

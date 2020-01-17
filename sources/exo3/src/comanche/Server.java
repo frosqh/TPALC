@@ -1,5 +1,4 @@
 package comanche;
-
 public class Server {
   public static void main (String[] args) {
     RequestReceiver rr = new RequestReceiver();

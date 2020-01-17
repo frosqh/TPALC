@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="asm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../externals/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/dtdparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/fractal-adl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/fractal-explorer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/fractal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/julia-asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/julia-mixins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/julia-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../externals/ow_deployment_scheduling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
