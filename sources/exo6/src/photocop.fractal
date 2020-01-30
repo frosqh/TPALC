@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE definition PUBLIC "-//objectweb.org//DTD Fractal ADL 2.0//EN" "classpath://org/objectweb/fractal/adl/xml/basic.dtd">
+
+<definition name="photocop">
+    <interface name="starter" signature="java.lang.Runnable" role="server"/>
+    <component name="User">
+        <interface name="starter" signature="java.lang.Runnable" role="server"/>
+        <interface name="commandeNum" signature="root.CommandNum" role="client"/>
+        <interface name="commandeImp" signature="root.CommandImp" role="client"/>
+        <interface name="copieObtenue" signature="root.Doc" role="client"/>
+        <content class="root.User"/>
+        <controller desc="primitive"/>
+    </component>
+
+    <component name="Photocopieuse">
+        <interface name="copieObtenue" signature="root.Doc" role="server"/>
+        <interface name="commandeNum" signature="root.CommandNum" role="server"/>
+        <interface name="commandeImp" signature="root.CommandImp" role="server"/>
+        <interface name="cartoucheEncreN" signature="root.LevelN" role="client"/>
+        <interface name="cartoucheEncreC" signature="root.LevelC" role="client"/>
+        <interface name="magasinPapier" signature="root.Count" role="client"/>
+        <interface name="alimElec" signature="root.Alimentation" role="client"/>
+        <interface name="documentOriginal" signature="root.Doc" role="client"/>
+        <component name="Imp">
+            <interface name="commandeImp" signature="root.CommandImp" role="server"/>
+            <interface name="copieObtenue" signature="root.Doc" role="server"/>
+            <interface name="imageNum" signature="root.NumDoc" role="client"/>
+            <interface name="cartoucheEncreC" signature="root.LevelC" role="client"/>
+            <interface name="cartoucheEncreN" signature="root.LevelN" role="client"/>
+            <interface name="magasinPapier" signature="root.Count" role="client"/>
+            <interface name="alimElec" signature="root.Alimentation" role="client"/>
+            <content class="root.Imp"/>
+            <controller desc="primitive"/>
+        </component>
+        <component name="Num">
+            <interface name="commandeNum" signature="root.CommandNum" role="server"/>
+            <interface name="imageNum" signature="root.NumDoc" role="server"/>
+            <interface name="documentOriginal" signature="root.Doc" role="client"/>
+            <interface name="alimElec" signature="root.Alimentation" role="client"/>
+            <content class="root.Num"/>
+            <controller desc="primitive"/>
+        </component>
+        <binding client="this.copieObtenue" server="Imp.copieObtenue"/>
+        <binding client="this.commandeImp" server="Imp.commandeImp"/>
+        <binding client="this.commandeNum" server="Num.commandeNum"/>
+        <binding client="Imp.cartoucheEncreN" server="this.cartoucheEncreN"/>
+        <binding client="Imp.cartoucheEncreC" server="this.cartoucheEncreC"/>
+        <binding client="Imp.magasinPapier" server="this.magasinPapier"/>
+        <binding client="Imp.alimElec" server="this.alimElec"/>
+        <binding client="Imp.imageNum" server="Num.imageNum"/>
+        <binding client="Num.alimElec" server="this.alimElec"/>
+        <binding client="Num.documentOriginal" server="this.documentOriginal"/>
+        <controller desc="composite"/>
+    </component>
+
+    <component name="Doc">
+        <interface name="documentOriginal" signature="root.Doc" role="server"/>
+        <content class="root.DocImpl"/>
+        <controller desc="primitive"/>
+    </component>
+
+    <component name="Alim">
+        <interface name="alimElec" signature="root.Alimentation" role="server"/>
+        <content class="root.AlimImpl"/>
+        <controller desc="primitive"/>
+    </component>
+
+    <component name="Cart">
+        <interface name="cartoucheEncreN" signature="root.LevelN" role="server"/>
+        <interface name="cartoucheEncreC" signature="root.LevelC" role="server"/>
+        <content class="root.Cart"/>
+        <controller desc="primitive"/>
+    </component>
+
+    <component name="Input">
+        <interface name="magasinPapier" signature="root.Count" role="server"/>
+        <content class="root.CountImpl"/>
+        <controller desc="primitive"/>
+    </component>
+    <binding client="this.starter" server="User.starter"/>
+    <binding client="User.commandeImp" server="Photocopieuse.commandeImp"/>
+    <binding client="User.commandeNum" server="Photocopieuse.commandeNum"/>
+    <binding client="User.copieObtenue" server="Photocopieuse.copieObtenue"/>
+    <binding client="Photocopieuse.alimElec" server="Alim.alimElec"/>
+    <binding client="Photocopieuse.magasinPapier" server="Input.magasinPapier"/>
+    <binding client="Photocopieuse.cartoucheEncreC" server="Cart.cartoucheEncreC"/>
+    <binding client="Photocopieuse.cartoucheEncreN" server="Cart.cartoucheEncreN"/>
+    <binding client="Photocopieuse.documentOriginal" server="Doc.documentOriginal"/>
+
+</definition>

@@ -5,14 +5,15 @@ import org.objectweb.fractal.api.control.BindingController;
 import org.objectweb.fractal.api.control.IllegalBindingException;
 import org.objectweb.fractal.api.control.IllegalLifeCycleException;
 
-public class Imp implements BindingController,Doc,Command {
-    private LevelN cartoucheN;
-    private LevelC cartoucheC;
+public class Imp implements BindingController,Doc,CommandImp {
+    private LevelN cartoucheEncreN;
+    private LevelC cartoucheEncreC = null;
     private Count magasinPapier;
     private Alimentation alim;
     private NumDoc doc;
     private boolean hasBeenPrinted = false;
 
+    //public Imp() {}
 
     @Override
     public String[] listFc() {
@@ -22,11 +23,11 @@ public class Imp implements BindingController,Doc,Command {
     @Override
     public Object lookupFc(String s) throws NoSuchInterfaceException {
         switch (s){
-            case "cartoucheEncreN": return cartoucheN;
-            case "cartoucheEncreC": return cartoucheC;
+            case "cartoucheEncreN": return cartoucheEncreN;
+            case "cartoucheEncreC": return cartoucheEncreC;
             case "magasinPapier": return magasinPapier;
             case "alimElec": return alim;
-            case "copieObtenue": return doc;
+            case "imageNum" : return doc;
         }
         return null;
     }
@@ -34,22 +35,22 @@ public class Imp implements BindingController,Doc,Command {
     @Override
     public void bindFc(String s, Object o) throws NoSuchInterfaceException, IllegalBindingException, IllegalLifeCycleException {
         switch (s){
-            case "cartoucheEncreN": cartoucheN = (LevelN) o; break;
-            case "cartoucheEncreC": cartoucheC = (LevelC) o;break;
+            case "cartoucheEncreN": cartoucheEncreN = (LevelN) o; break;
+            case "cartoucheEncreC": cartoucheEncreC = (LevelC) o;break;
             case "magasinPapier": magasinPapier = (Count) o;break;
             case "alimElec": alim = (Alimentation) o;break;
-            case "copieObtenue": doc = (NumDoc) o;break;
+            case "imageNum": doc = (NumDoc) o;break;
         }
     }
 
     @Override
     public void unbindFc(String s) throws NoSuchInterfaceException, IllegalBindingException, IllegalLifeCycleException {
         switch (s){
-            case "cartoucheEncreN": cartoucheN = null;
-            case "cartoucheEncreC": cartoucheC = null;
-            case "magasinPapier": magasinPapier = null;
-            case "alimElec": alim = null;
-            case "copieObtenue": doc = null;
+            case "cartoucheEncreN": cartoucheEncreN = null;break;
+            case "cartoucheEncreC": cartoucheEncreC = null;break;
+            case "magasinPapier": magasinPapier = null;break;
+            case "alimElec": alim = null;break;
+            case "imageNum": doc = null;break;
         }
     }
 
@@ -57,11 +58,12 @@ public class Imp implements BindingController,Doc,Command {
     public String getContent() {
         if (hasBeenPrinted)
             return doc.getContent();
+        //return "BITE ! ";
         return null;
     }
 
     @Override
-    public void execute() {
+    public void executeImp() {
         hasBeenPrinted = true;
     }
 }

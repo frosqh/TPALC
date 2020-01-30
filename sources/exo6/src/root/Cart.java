@@ -5,6 +5,9 @@ public class Cart implements LevelC, LevelN {
     LevelN lvlN;
     LevelC lvlC;
 
+    public Cart(){
+        this(100,100);
+    }
 
     public Cart(int lvlN, int lvlC){
         this.lvlN = new LevelNImpl(lvlN);

@@ -35,20 +35,20 @@
     <component name="Handler">
       <interface name="rh" signature="comanche.RequestHandler" role="server"/>
       <component name="Dispatcher">
-	<interface name="rh" signature="comanche.RequestHandler" role="server" />
-	<interface name="h" signature="comanche.RequestHandler" cardinality="collection" role="client"/>
-	<content class="comanche.RequestDispatcher"/>
-	<controller desc="primitive"/>
+        <interface name="rh" signature="comanche.RequestHandler" role="server" />
+        <interface name="h" signature="comanche.RequestHandler" cardinality="collection" role="client"/>
+        <content class="comanche.RequestDispatcher"/>
+        <controller desc="primitive"/>
       </component>  
       <component name="FileHandler">
-	<interface name="rh" signature="comanche.RequestHandler" role="server"/>
-	<content class="comanche.FileRequestHandler"/>
-	<controller desc="primitive"/>
+        <interface name="rh" signature="comanche.RequestHandler" role="server"/>
+        <content class="comanche.FileRequestHandler"/>
+        <controller desc="primitive"/>
       </component>  
       <component name="ErrorHandler">
-	<interface name="rh" signature="comanche.RequestHandler" role="server"/>
-	<content class="comanche.ErrorRequestHandler"/>
-	<controller desc="primitive"/>
+        <interface name="rh" signature="comanche.RequestHandler" role="server"/>
+        <content class="comanche.ErrorRequestHandler"/>
+        <controller desc="primitive"/>
       </component>  
       <binding client="this.rh" server="Dispatcher.rh"/>
       <binding client="Dispatcher.h0" server="FileHandler.rh"/>

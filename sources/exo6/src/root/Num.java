@@ -5,7 +5,7 @@ import org.objectweb.fractal.api.control.BindingController;
 import org.objectweb.fractal.api.control.IllegalBindingException;
 import org.objectweb.fractal.api.control.IllegalLifeCycleException;
 
-public class Num implements BindingController,NumDoc,Command {
+public class Num implements BindingController,NumDoc,CommandNum {
 
     Doc doc;
     Alimentation alim;
@@ -42,7 +42,7 @@ public class Num implements BindingController,NumDoc,Command {
     }
 
     @Override
-    public void execute() {
+    public void executeNum() {
         //TODO Numériser...
         hasBeenNum = true;
     }

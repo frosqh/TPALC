@@ -2,323 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f85d8d84-eede-4539-a1b0-5cc9ea3e40b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exo3/.idea/libraries/asm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo5/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo5/.idea/exo5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exo5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/exo6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/asm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/execute.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/julia.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/AlimImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Alimentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/CountImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/DocImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/LevelC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/LevelCImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/LevelN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/LevelNImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/NumDoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/root/Photocopieuse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sujet/Sujet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Sujet/Sujet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/Fractal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/Fractal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/org/objectweb/fractal/util/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/resources/inherit.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal-util/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal-util/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Fractal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Fractal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Interface.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Interface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/NoSuchInterfaceException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/NoSuchInterfaceException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Type.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/Type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/AttributeController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/AttributeController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/BindingController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/BindingController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/ContentController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/ContentController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalBindingException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalBindingException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalContentException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalContentException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalLifeCycleException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/IllegalLifeCycleException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/LifeCycleController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/LifeCycleController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/NameController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/NameController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/SuperController.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/SuperController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/control/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/Factory.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/Factory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/GenericFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/GenericFactory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/InstantiationException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/InstantiationException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/factory/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/ComponentType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/ComponentType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/InterfaceType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/InterfaceType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/TypeFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/TypeFactory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/org/objectweb/fractal/api/type/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/resources/inherit.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doc/fractal/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/fractal/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/.idea/exo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/.idea/exo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/ClientImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/ClientImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/ServerImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/ServerImpl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/ServerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/ServerImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/build/ServiceAttributes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/build/ServiceAttributes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/ClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/ClientImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/ServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/ServerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo1/src/ServiceAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo1/src/ServiceAttributes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/ant.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/exo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/exo2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/MonServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/MonServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/BasicLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/BasicLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/ErrorRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/ErrorRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/FileRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/FileRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/MultiThreadScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/MultiThreadScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/RequestAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/RequestAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/RequestDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/RequestDispatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/RequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/RequestReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/RequestReceiver$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/RequestReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/RequestReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/Scheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/SequentialScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/SequentialScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/build/comanche/Server2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/build/comanche/Server2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/conf1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/conf1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/MonServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/MonServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/BasicLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/BasicLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/ErrorRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/ErrorRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/FileRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/FileRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/MultiThreadScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/MultiThreadScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/RequestAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/RequestAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/RequestDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/RequestDispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/RequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/RequestReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/RequestReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/SequentialScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/SequentialScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo2/src/comanche/Server2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo2/src/comanche/Server2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/.idea/exo3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/.idea/exo3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/BasicLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/BasicLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/ErrorRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/ErrorRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/FileRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/FileRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/MultiThreadScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/MultiThreadScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/RequestAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/RequestAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/RequestDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/RequestDispatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/RequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/RequestReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/RequestReceiver$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/RequestReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/RequestReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/Scheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/SequentialScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/SequentialScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/build/comanche/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/build/comanche/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/comanche.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/comanche.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/conf1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/conf1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/exo3.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/exo3.fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/BasicLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/BasicLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/Comanche.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/Comanche.fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/ErrorRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/ErrorRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/FileRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/FileRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/MultiThreadScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/MultiThreadScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/RequestAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/RequestAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/RequestDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/RequestDispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/RequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/RequestReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/RequestReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/SequentialScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/SequentialScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo3/src/comanche/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo3/src/comanche/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/.idea/comanche.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/.idea/comanche.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/BasicLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/BasicLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/ErrorRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/ErrorRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/FileRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/FileRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/HttpHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/HttpHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/MultiThreadScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/MultiThreadScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/RequestAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/RequestAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/RequestDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/RequestDispatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/RequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/RequestReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/RequestReceiver$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/RequestReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/RequestReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/Scheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/SequentialScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/SequentialScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/build/comanche/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/build/comanche/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/comanche.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/comanche.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/Comanche.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/Comanche.fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/BasicLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/BasicLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/ErrorRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/ErrorRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/FileRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/FileRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/HttpHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/HttpHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/MultiThreadScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/MultiThreadScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/RequestAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/RequestAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/RequestDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/RequestDispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/RequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/RequestReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/RequestReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/SequentialScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/SequentialScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo4/src/comanche/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exo4/src/comanche/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/comanche.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/comanche.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exo5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/asm.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/asm.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/dtdparser.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/dtdparser.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/fractal-adl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/fractal-adl.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/fractal-explorer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/fractal-explorer.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/fractal.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/fractal.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/julia-asm.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/julia-asm.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/julia-mixins.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/julia-mixins.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/julia-runtime.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/julia-runtime.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../externals/ow_deployment_scheduling.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../externals/ow_deployment_scheduling.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/.idea/comanche.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/.idea/comanche.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photocop.fractal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/root/CommandImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/root/CommandNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/root/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initial/comanche/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exo5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exo5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Alimentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/Alimentation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/CountImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/CountImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Doc.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/Doc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/DocImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/DocImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Imp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/Imp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/LevelImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/Num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/NumDoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/root/NumDoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/root/exo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/etc/execute.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exo6.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/src/exo6.fractal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/CountImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/CountImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/DocImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/DocImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/Imp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/Imp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/LevelNImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/LevelNImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/root/Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/Photocopieuse.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../initial/comanche/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../initial/comanche/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/BasicLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/BasicLogger.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/Comanche.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/Comanche.fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/ErrorRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/ErrorRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/FileRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/FileRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/MultiThreadScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/MultiThreadScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestDispatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestReceiver$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/RequestReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/Scheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/SequentialScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/SequentialScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/build/comanche/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/build/comanche/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/comanche.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/comanche.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/BasicLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/BasicLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/Comanche.fractal" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/Comanche.fractal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/ErrorRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/ErrorRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/FileRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/FileRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/MultiThreadScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/MultiThreadScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestDispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/RequestReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/SequentialScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/SequentialScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/comanche/src/comanche/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/comanche/src/comanche/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/.idea/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/.idea/helloworld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/ClientImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/ClientImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/ServerImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/ServerImpl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/ServerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/ServerImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/build/ServiceAttributes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/build/ServiceAttributes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/etc/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/etc/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/etc/execute.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/etc/execute.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/etc/julia.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/etc/julia.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/ClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/ClientImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/ServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/ServerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/helloworld/src/ServiceAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/helloworld/src/ServiceAttributes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -330,169 +47,6 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/exo6.fractal">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="118">
-                    <caret line="10" column="69" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="69" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/Num.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/root/Photocopieuse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/Imp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/AlimImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/DocImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/LevelNImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/Cart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/LevelCImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/LevelC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/LevelN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -501,100 +55,25 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>java.lang.Integer</find>
-      <find>java.lang.Boolean</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>root.Level</replace>
-      <replace>root.Alimentation</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/exo3.fractal" />
-        <option value="$PROJECT_DIR$/etc/execute.properties" />
-        <option value="$PROJECT_DIR$/src/root/Doc.java" />
-        <option value="$PROJECT_DIR$/src/root/NumDoc.java" />
-        <option value="$PROJECT_DIR$/src/root/Alimentation.java" />
-        <option value="$PROJECT_DIR$/src/root/Command.java" />
-        <option value="$PROJECT_DIR$/src/root/Count.java" />
-        <option value="$PROJECT_DIR$/src/root/CountImpl.java" />
-        <option value="$PROJECT_DIR$/src/root/DocImpl.java" />
-        <option value="$PROJECT_DIR$/src/root/Num.java" />
-        <option value="$PROJECT_DIR$/src/root/exo6.java" />
-        <option value="$PROJECT_DIR$/src/root/AlimImpl.java" />
-        <option value="$PROJECT_DIR$/src/root/Level.java" />
-        <option value="$PROJECT_DIR$/src/root/LevelImpl.java" />
-        <option value="$PROJECT_DIR$/src/root/LevelN.java" />
-        <option value="$PROJECT_DIR$/src/root/LevelC.java" />
-        <option value="$PROJECT_DIR$/src/root/LevelCImpl.java" />
-        <option value="$PROJECT_DIR$/src/root/Cart.java" />
-        <option value="$PROJECT_DIR$/src/root/Photocopieuse.java" />
-        <option value="$PROJECT_DIR$/src/exo6.fractal" />
-        <option value="$PROJECT_DIR$/src/root/Imp.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="993" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
-  </component>
+  <component name="ProjectId" id="1X6y1IenfPCedh4c7G9CigdL1xG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="exo6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exo6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exo6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exo6" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exo6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exo6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exo6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exo6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="root" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../externals/ow_deployment_scheduling.jar!/" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exo5" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="root" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -602,8 +81,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="root" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="root" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -648,334 +127,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579268420552</updated>
+      <workItem from="1580380623323" duration="3739000" />
+      <workItem from="1580404178212" duration="5821000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="993" y="25" width="927" height="1055" extended-state="4" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2429058" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.118428335" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="36" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etc/julia.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etc/execute.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/NumDoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Doc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Alimentation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/CountImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/DocImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/AlimImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/LevelNImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/LevelN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/LevelCImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/LevelC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Imp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exo6.fractal">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Photocopieuse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>exo6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>asm</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

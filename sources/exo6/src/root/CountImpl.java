@@ -3,6 +3,10 @@ package root;
 public class CountImpl implements Count {
     private int count;
 
+    public CountImpl(){
+        this(100);
+    }
+
     public CountImpl(int i) {
         count = i;
     }

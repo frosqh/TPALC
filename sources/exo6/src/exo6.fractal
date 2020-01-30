@@ -5,21 +5,22 @@
  <interface name="commandeNum" signature="root.Command" role="server"/>
  <interface name="commandeImp" signature="root.Command" role="server"/>
  <interface name="copieObtenue" signature="root.Doc" role="server"/>
+
  <component name="Photocopieuse">
   <interface name="copieObtenue" signature="root.Doc" role="server"/>
   <interface name="commandeNum" signature="root.Command" role="server"/>
   <interface name="commandeImp" signature="root.Command" role="server"/>
-  <interface name="cartoucheEncreN" signature="root.Level" role="client"/>
-  <interface name="cartoucheEncreC" signature="root.Level" role="client"/>
+  <interface name="cartoucheEncreN" signature="root.LevelN" role="client"/>
+  <interface name="cartoucheEncreC" signature="root.LevelC" role="client"/>
   <interface name="magasinPapier" signature="root.Count" role="client"/>
   <interface name="alimElec" signature="root.Alimentation" role="client"/>
   <interface name="documentOriginal" signature="root.Doc" role="client"/>
   <component name="Imp">
     <interface name="commandeImp" signature="root.Command" role="server"/>
     <interface name="copieObtenue" signature="root.Doc" role="server"/>
-    <interface name="cartoucheEncreN" signature="root.Level" role="client"/>
-    <interface name="cartoucheEncreC" signature="root.Level" role="client"/>
+    <interface name="cartoucheEncreN" signature="root.LevelN" role="client"/>
     <interface name="magasinPapier" signature="root.Count" role="client"/>
+    <interface name="cartoucheEncreC" signature="root.LevelC" role="client"/>
     <interface name="alimElec" signature="root.Alimentation" role="client"/>
     <interface name="imageNum" signature="root.NumDoc" role="client"/>
     <content class="root.Imp"/>
@@ -44,7 +45,6 @@
   <binding client="Imp.alimElec" server="this.alimElec"/>
   <binding client="Num.alimElec" server="this.alimElec"/>
   <binding client="Num.documentOriginal" server="this.documentOriginal"/>
-  <content class="root.Photocopieuse"/>
   <controller desc="composite"/>
  </component>
 
@@ -52,12 +52,12 @@
     <interface name="documentOriginal" signature="root.Doc" role="server"/>
     <content class="root.DocImpl"/>
     <controller desc="primitive"/>
- <component/>
+ </component>
 
  <component name="Alim">
     <interface name="alimElec" signature="root.Alimentation" role="server"/>
     <content class="root.AlimImpl"/>
-    <controller desc="primitive"
+    <controller desc="primitive"/>
  </component>
 
  <component name="Cart">
