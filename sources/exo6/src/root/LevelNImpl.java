@@ -8,13 +8,13 @@ public class LevelNImpl implements LevelN {
     }
 
     @Override
-    public float getLevel() {
+    public float getLevelN() {
         return level;
     }
 
 
     @Override
-    public float consumateLevel(float toConsume) {
+    public float consumateLevelN(float toConsume) {
         return (level-=toConsume);
     }
 }
